@@ -52,7 +52,7 @@ How many contigs did the `flye` assembly produce for the _E. coli_ sample?
 Now, we want to map the long reads to the assembly you calculated to visualize them.
 
 ```bash
-minimap2 -ax map-ont flye_output/assembly.fasta eco-filtered.fastq > eco-mapping.sam
+minimap2 -a -x map-ont flye_output/assembly.fasta eco-filtered.fastq > eco-mapping.sam
 ```
 [Publication](https://doi.org/10.1093/bioinformatics/bty191) | [Code](https://github.com/lh3/minimap2)
 
