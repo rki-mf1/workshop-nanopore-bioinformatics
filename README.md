@@ -1,14 +1,6 @@
-# Disclaimer (delete this in your fork)
-
-**This is the main repository!** If you are planning a new workshop, fork this one and adjust everything you need in your forked repository. If you want to add new content or update existing tools/commands, consider to do these changes first into this main repository via a Pull Request and before you start working on your own workshop specifics!
-
-Below, you find all content of this repository. Please also notice the placeholders "<...>" theat you should adjust!
-
----
-
 # Workshop Nanopore Bioinformatics
 
-A practical introduction to <...> for <...> in the context of the <...> project.
+A practical introduction to bioinformatics with Nanopore data on influenza for students in Namibia in the context of the Mission project.
 
 ## Schedule links for the workshop
 
@@ -35,7 +27,7 @@ A practical introduction to <...> for <...> in the context of the <...> project.
 
 ## Instructors
 
-* <...>, <...>, and <...>
+* Franziska Kistner, Simon Tausch, Torsten Houwaart
 
 ## Schedule
 
